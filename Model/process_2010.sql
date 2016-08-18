@@ -1,5 +1,7 @@
 \connect election;
 
+set search_path to federal;
+
 /*
 US HOUSE OF REPRESENTATIVES
 */

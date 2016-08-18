@@ -1,5 +1,6 @@
 \connect election;
 
+set search_path to federal;
 /*
 US HOUSE OF REPRESENTATIVES
 */
@@ -70,6 +71,13 @@ and election_date = '11/4/2014';
 select count(election_date) from federal_sen
 where election_date = '2014-11-04';
 
+select count(election_date) from federal_raw
+where office = 'FOR UNITED STATES SENATOR'
+and election_date = '12/6/2014';
+
+select count(election_date) from federal_sen
+where election_date = '2014-12-06';
+
 /*
 US HOUSE OF REPRESENTATIVES
 */
@@ -79,3 +87,10 @@ and election_date = '11/4/2014';
 
 select count(election_date) from federal_rep
 where election_date = '2014-11-04';
+
+select count(election_date) from federal_raw
+where office = 'FOR UNITED STATES REPRESENTATIVE'
+and election_date = '12/6/2014';
+
+select count(election_date) from federal_rep
+where election_date = '2014-12-06';

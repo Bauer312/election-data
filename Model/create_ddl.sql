@@ -1,12 +1,9 @@
-CREATE USER importuser WITH PASSWORD 'abc123';
-
 CREATE DATABASE election;
 \connect election;
 
-CREATE SCHEMA federal AUTHORIZATION importuser;
-GRANT SELECT ON ALL TABLES IN SCHEMA federal TO importuser;
+CREATE SCHEMA federal;
 
-CREATE TABLE federal_raw (
+CREATE TABLE federal.federal_raw (
   election_date varchar(128),
   state         varchar(128),
   office        varchar(128),
@@ -16,7 +13,7 @@ CREATE TABLE federal_raw (
   votes         varchar(128)
 );
 
-CREATE TABLE federal_rep (
+CREATE TABLE federal.federal_rep (
   election_date date NOT NULL,
   state         varchar(64) NOT NULL,
   district      varchar(16) NOT NULL,
@@ -31,7 +28,7 @@ CREATE TABLE federal_rep (
   PRIMARY KEY (election_date, state, district, candidate, party, term_end)
 );
 
-CREATE TABLE federal_sen (
+CREATE TABLE federal.federal_sen (
   election_date date NOT NULL,
   state         varchar(64) NOT NULL,
   candidate     varchar(64) NOT NULL,
