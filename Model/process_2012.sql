@@ -41,6 +41,17 @@ and election_date = '12/8/2012'
 and district = '';
 
 /*
+Delegates
+*/
+insert into federal_del
+select to_date(election_date, 'MM/DD/YYYY'), state, candidate, party,
+to_number(votes, '999999999'), 'general'
+from federal_raw
+where office = 'FOR DELEGATE'
+and election_date = '11/6/2012'
+and district = '';
+
+/*
 TABLE BALANCING
 */
 

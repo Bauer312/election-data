@@ -41,3 +41,14 @@ CREATE TABLE federal.federal_sen (
 
   PRIMARY KEY (election_date, state, candidate, party, term_end)
 );
+
+CREATE TABLE federal.federal_del (
+  election_date date NOT NULL,
+  territory     varchar(64) NOT NULL,
+  candidate     varchar(64) NOT NULL,
+  party         varchar(128) NOT NULL default 'N/A',
+  votes         integer NOT NULL,
+  election_type varchar(8) NOT NULL default 'general',
+
+  PRIMARY KEY (election_date, territory, candidate, party)
+);
