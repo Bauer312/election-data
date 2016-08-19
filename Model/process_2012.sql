@@ -52,6 +52,28 @@ and election_date = '11/6/2012'
 and district = '';
 
 /*
+President
+*/
+insert into federal_pres
+select to_date(election_date, 'MM/DD/YYYY'), state, party,
+to_number(votes, '999999999'), 'general'
+from federal_raw
+where office = 'FOR PRESIDENTIAL ELECTORS'
+and election_date = '11/6/2012'
+and district = '';
+
+/*
+Resident Commissioner
+*/
+insert into federal_com
+select to_date(election_date, 'MM/DD/YYYY'), state, candidate, party,
+to_number(votes, '999999999'), 'general'
+from federal_raw
+where office = 'FOR RESIDENT COMMISSIONER'
+and election_date = '11/6/2012'
+and district = '';
+
+/*
 TABLE BALANCING
 */
 

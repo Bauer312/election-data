@@ -52,3 +52,24 @@ CREATE TABLE federal.federal_del (
 
   PRIMARY KEY (election_date, territory, candidate, party)
 );
+
+CREATE TABLE federal.federal_pres (
+  election_date date NOT NULL,
+  state         varchar(64) NOT NULL,
+  party         varchar(128) NOT NULL default 'N/A',
+  votes         integer NOT NULL,
+  election_type varchar(8) NOT NULL default 'general',
+
+  PRIMARY KEY (election_date, state, party)
+);
+
+CREATE TABLE federal.federal_com (
+  election_date date NOT NULL,
+  territory     varchar(64) NOT NULL,
+  candidate     varchar(64) NOT NULL,
+  party         varchar(128) NOT NULL default 'N/A',
+  votes         integer NOT NULL,
+  election_type varchar(8) NOT NULL default 'general',
+
+  PRIMARY KEY (election_date, territory, candidate, party)
+);
