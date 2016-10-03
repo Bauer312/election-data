@@ -73,3 +73,23 @@ CREATE TABLE federal.federal_com (
 
   PRIMARY KEY (election_date, territory, candidate, party)
 );
+
+CREATE TABLE federal.federal_index_raw (
+  election_date varchar(128),
+  election_type varchar(128),
+  state         varchar(128),
+  office        varchar(128),
+  district      varchar(128),
+  index         varchar(128)
+);
+
+CREATE TABLE federal.federal_index (
+  election_date date NOT NULL,
+  election_type varchar(32) NOT NULL default 'general',
+  state         varchar(64) NOT NULL,
+  office        varchar(64) NOT NULL,
+  district      varchar(16) NOT NULL default 'N/A',
+  index         integer NOT NULL,
+
+  PRIMARY KEY (election_date, election_type, state, office, district)
+);

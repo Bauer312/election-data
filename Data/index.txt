@@ -1,0 +1,1406 @@
+2014-11-04|general|ALABAMA|Congress|1|51.0
+2014-11-04|general|ALABAMA|Congress|2|52.0
+2014-11-04|general|ALABAMA|Congress|3|54.0
+2014-11-04|general|ALABAMA|Congress|4|2.0
+2014-11-04|general|ALABAMA|Congress|5|41.0
+2014-11-04|general|ALABAMA|Congress|6|38.0
+2014-11-04|general|ALABAMA|Congress|7|2.0
+2014-11-04|general|ALASKA|Congress|AT LARGE|79.0
+2014-11-04|general|ARIZONA|Congress|1|76.0
+2014-11-04|general|ARIZONA|Congress|2|80.0
+2014-11-04|general|ARIZONA|Congress|3|71.0
+2014-11-04|general|ARIZONA|Congress|4|48.0
+2014-11-04|general|ARIZONA|Congress|5|49.0
+2014-11-04|general|ARIZONA|Congress|6|56.0
+2014-11-04|general|ARIZONA|Congress|7|34.0
+2014-11-04|general|ARIZONA|Congress|8|39.0
+2014-11-04|general|ARIZONA|Congress|9|73.0
+2014-11-04|general|ARKANSAS|Congress|1|59.0
+2014-11-04|general|ARKANSAS|Congress|2|77.0
+2014-11-04|general|ARKANSAS|Congress|3|33.0
+2014-11-04|general|ARKANSAS|Congress|4|74.0
+2014-11-04|general|CALIFORNIA|Congress|1|63.0
+2014-11-04|general|CALIFORNIA|Congress|10|71.0
+2014-11-04|general|CALIFORNIA|Congress|11|53.0
+2014-11-04|general|CALIFORNIA|Congress|12|27.0
+2014-11-04|general|CALIFORNIA|Congress|13|18.0
+2014-11-04|general|CALIFORNIA|Congress|14|37.0
+2014-11-04|general|CALIFORNIA|Congress|15|48.0
+2014-11-04|general|CALIFORNIA|Congress|16|79.0
+2014-11-04|general|CALIFORNIA|Congress|17|78.0
+2014-11-04|general|CALIFORNIA|Congress|18|52.0
+2014-11-04|general|CALIFORNIA|Congress|19|53.0
+2014-11-04|general|CALIFORNIA|Congress|2|40.0
+2014-11-04|general|CALIFORNIA|Congress|20|40.0
+2014-11-04|general|CALIFORNIA|Congress|21|68.0
+2014-11-04|general|CALIFORNIA|Congress|22|45.0
+2014-11-04|general|CALIFORNIA|Congress|23|40.0
+2014-11-04|general|CALIFORNIA|Congress|24|77.0
+2014-11-04|general|CALIFORNIA|Congress|25|75.0
+2014-11-04|general|CALIFORNIA|Congress|26|78.0
+2014-11-04|general|CALIFORNIA|Congress|27|65.0
+2014-11-04|general|CALIFORNIA|Congress|28|38.0
+2014-11-04|general|CALIFORNIA|Congress|29|41.0
+2014-11-04|general|CALIFORNIA|Congress|3|76.0
+2014-11-04|general|CALIFORNIA|Congress|30|55.0
+2014-11-04|general|CALIFORNIA|Congress|31|78.0
+2014-11-04|general|CALIFORNIA|Congress|32|65.0
+2014-11-04|general|CALIFORNIA|Congress|33|66.0
+2014-11-04|general|CALIFORNIA|Congress|34|44.0
+2014-11-04|general|CALIFORNIA|Congress|35|59.0
+2014-11-04|general|CALIFORNIA|Congress|36|74.0
+2014-11-04|general|CALIFORNIA|Congress|37|25.0
+2014-11-04|general|CALIFORNIA|Congress|38|66.0
+2014-11-04|general|CALIFORNIA|Congress|39|50.0
+2014-11-04|general|CALIFORNIA|Congress|4|64.0
+2014-11-04|general|CALIFORNIA|Congress|40|62.0
+2014-11-04|general|CALIFORNIA|Congress|41|70.0
+2014-11-04|general|CALIFORNIA|Congress|42|55.0
+2014-11-04|general|CALIFORNIA|Congress|43|47.0
+2014-11-04|general|CALIFORNIA|Congress|44|21.0
+2014-11-04|general|CALIFORNIA|Congress|45|56.0
+2014-11-04|general|CALIFORNIA|Congress|46|65.0
+2014-11-04|general|CALIFORNIA|Congress|47|71.0
+2014-11-04|general|CALIFORNIA|Congress|48|58.0
+2014-11-04|general|CALIFORNIA|Congress|49|64.0
+2014-11-04|general|CALIFORNIA|Congress|5|39.0
+2014-11-04|general|CALIFORNIA|Congress|50|46.0
+2014-11-04|general|CALIFORNIA|Congress|51|50.0
+2014-11-04|general|CALIFORNIA|Congress|52|78.0
+2014-11-04|general|CALIFORNIA|Congress|53|66.0
+2014-11-04|general|CALIFORNIA|Congress|6|44.0
+2014-11-04|general|CALIFORNIA|Congress|7|80.0
+2014-11-04|general|CALIFORNIA|Congress|8|52.0
+2014-11-04|general|CALIFORNIA|Congress|9|77.0
+2014-11-04|general|COLORADO|Congress|1|53.0
+2014-11-04|general|COLORADO|Congress|2|70.0
+2014-11-04|general|COLORADO|Congress|3|65.0
+2014-11-04|general|COLORADO|Congress|4|54.0
+2014-11-04|general|COLORADO|Congress|5|65.0
+2014-11-04|general|COLORADO|Congress|6|76.0
+2014-11-04|general|COLORADO|Congress|7|72.0
+2014-11-04|general|CONNECTICUT|Congress|1|60.0
+2014-11-04|general|CONNECTICUT|Congress|2|59.0
+2014-11-04|general|CONNECTICUT|Congress|3|53.0
+2014-11-04|general|CONNECTICUT|Congress|4|74.0
+2014-11-04|general|CONNECTICUT|Congress|5|75.0
+2014-11-04|general|DELAWARE|Congress|AT LARGE|64.0
+2014-11-04|general|FLORIDA|Congress|1|48.0
+2014-11-04|general|FLORIDA|Congress|10|62.0
+2014-11-04|general|FLORIDA|Congress|11|53.0
+2014-11-04|general|FLORIDA|Congress|12|0.0
+2014-11-04|general|FLORIDA|Congress|13|40.0
+2014-11-04|general|FLORIDA|Congress|14|0.0
+2014-11-04|general|FLORIDA|Congress|15|64.0
+2014-11-04|general|FLORIDA|Congress|16|62.0
+2014-11-04|general|FLORIDA|Congress|17|59.0
+2014-11-04|general|FLORIDA|Congress|18|65.0
+2014-11-04|general|FLORIDA|Congress|19|57.0
+2014-11-04|general|FLORIDA|Congress|2|80.0
+2014-11-04|general|FLORIDA|Congress|20|29.0
+2014-11-04|general|FLORIDA|Congress|21|0.0
+2014-11-04|general|FLORIDA|Congress|22|67.0
+2014-11-04|general|FLORIDA|Congress|23|60.0
+2014-11-04|general|FLORIDA|Congress|24|22.0
+2014-11-04|general|FLORIDA|Congress|25|0.0
+2014-11-04|general|FLORIDA|Congress|26|78.0
+2014-11-04|general|FLORIDA|Congress|27|0.0
+2014-11-04|general|FLORIDA|Congress|3|56.0
+2014-11-04|general|FLORIDA|Congress|4|35.0
+2014-11-04|general|FLORIDA|Congress|5|55.0
+2014-11-04|general|FLORIDA|Congress|6|60.0
+2014-11-04|general|FLORIDA|Congress|7|58.0
+2014-11-04|general|FLORIDA|Congress|8|55.0
+2014-11-04|general|FLORIDA|Congress|9|74.0
+2014-11-04|general|GEORGIA|Congress|1|63.0
+2014-11-04|general|GEORGIA|Congress|10|54.0
+2014-11-04|general|GEORGIA|Congress|11|0.0
+2014-11-04|general|GEORGIA|Congress|12|73.0
+2014-11-04|general|GEORGIA|Congress|13|0.0
+2014-11-04|general|GEORGIA|Congress|14|0.0
+2014-11-04|general|GEORGIA|Congress|2|66.0
+2014-11-04|general|GEORGIA|Congress|3|0.0
+2014-11-04|general|GEORGIA|Congress|4|0.0
+2014-11-04|general|GEORGIA|Congress|5|0.0
+2014-11-04|general|GEORGIA|Congress|6|55.0
+2014-11-04|general|GEORGIA|Congress|7|56.0
+2014-11-04|general|GEORGIA|Congress|8|0.0
+2014-11-04|general|GEORGIA|Congress|9|31.0
+2014-11-04|general|HAWAII|Congress|1|78.0
+2014-11-04|general|HAWAII|Congress|2|36.0
+2014-11-04|general|IDAHO|Congress|1|56.0
+2014-11-04|general|IDAHO|Congress|2|62.0
+2014-11-04|general|ILLINOIS|Congress|1|43.0
+2014-11-04|general|ILLINOIS|Congress|10|78.0
+2014-11-04|general|ILLINOIS|Congress|11|75.0
+2014-11-04|general|ILLINOIS|Congress|12|76.0
+2014-11-04|general|ILLINOIS|Congress|13|66.0
+2014-11-04|general|ILLINOIS|Congress|14|56.0
+2014-11-04|general|ILLINOIS|Congress|15|40.0
+2014-11-04|general|ILLINOIS|Congress|16|47.0
+2014-11-04|general|ILLINOIS|Congress|17|72.0
+2014-11-04|general|ILLINOIS|Congress|18|40.0
+2014-11-04|general|ILLINOIS|Congress|2|34.0
+2014-11-04|general|ILLINOIS|Congress|3|57.0
+2014-11-04|general|ILLINOIS|Congress|4|35.0
+2014-11-04|general|ILLINOIS|Congress|5|59.0
+2014-11-04|general|ILLINOIS|Congress|6|53.0
+2014-11-04|general|ILLINOIS|Congress|7|24.0
+2014-11-04|general|ILLINOIS|Congress|8|71.0
+2014-11-04|general|ILLINOIS|Congress|9|54.0
+2014-11-04|general|INDIANA|Congress|1|63.0
+2014-11-04|general|INDIANA|Congress|2|66.0
+2014-11-04|general|INDIANA|Congress|3|55.0
+2014-11-04|general|INDIANA|Congress|4|53.0
+2014-11-04|general|INDIANA|Congress|5|56.0
+2014-11-04|general|INDIANA|Congress|6|55.0
+2014-11-04|general|INDIANA|Congress|7|73.0
+2014-11-04|general|INDIANA|Congress|8|64.0
+2014-11-04|general|INDIANA|Congress|9|61.0
+2014-11-04|general|IOWA|Congress|1|79.0
+2014-11-04|general|IOWA|Congress|2|76.0
+2014-11-04|general|IOWA|Congress|3|74.0
+2014-11-04|general|IOWA|Congress|4|62.0
+2014-11-04|general|KANSAS|Congress|1|51.0
+2014-11-04|general|KANSAS|Congress|2|69.0
+2014-11-04|general|KANSAS|Congress|3|64.0
+2014-11-04|general|KANSAS|Congress|4|53.0
+2014-11-04|general|KENTUCKY|Congress|1|43.0
+2014-11-04|general|KENTUCKY|Congress|2|49.0
+2014-11-04|general|KENTUCKY|Congress|3|59.0
+2014-11-04|general|KENTUCKY|Congress|4|52.0
+2014-11-04|general|KENTUCKY|Congress|5|35.0
+2014-11-04|general|KENTUCKY|Congress|6|64.0
+2014-11-04|general|LOUISIANA|Congress|1|31.0
+2014-11-04|general|LOUISIANA|Congress|2|42.0
+2014-11-04|general|LOUISIANA|Congress|3|34.0
+2014-11-04|general|LOUISIANA|Congress|4|43.0
+2014-11-04|general|LOUISIANA|Congress|5|100.0
+2014-11-04|general|LOUISIANA|Congress|6|93.0
+2014-11-04|general|MAINE|Congress|1|64.0
+2014-11-04|general|MAINE|Congress|2|85.0
+2014-11-04|general|MARYLAND|Congress|1|47.0
+2014-11-04|general|MARYLAND|Congress|2|62.0
+2014-11-04|general|MARYLAND|Congress|3|65.0
+2014-11-04|general|MARYLAND|Congress|4|48.0
+2014-11-04|general|MARYLAND|Congress|5|58.0
+2014-11-04|general|MARYLAND|Congress|6|81.0
+2014-11-04|general|MARYLAND|Congress|7|48.0
+2014-11-04|general|MARYLAND|Congress|8|63.0
+2014-11-04|general|MASSACHUSETTS|Congress|1|42.0
+2014-11-04|general|MASSACHUSETTS|Congress|2|45.0
+2014-11-04|general|MASSACHUSETTS|Congress|3|64.0
+2014-11-04|general|MASSACHUSETTS|Congress|4|45.0
+2014-11-04|general|MASSACHUSETTS|Congress|5|46.0
+2014-11-04|general|MASSACHUSETTS|Congress|6|72.0
+2014-11-04|general|MASSACHUSETTS|Congress|7|31.0
+2014-11-04|general|MASSACHUSETTS|Congress|8|37.0
+2014-11-04|general|MASSACHUSETTS|Congress|9|75.0
+2014-11-04|general|MICHIGAN|Congress|1|76.0
+2014-11-04|general|MICHIGAN|Congress|10|50.0
+2014-11-04|general|MICHIGAN|Congress|11|70.0
+2014-11-04|general|MICHIGAN|Congress|12|55.0
+2014-11-04|general|MICHIGAN|Congress|13|30.0
+2014-11-04|general|MICHIGAN|Congress|14|34.0
+2014-11-04|general|MICHIGAN|Congress|2|57.0
+2014-11-04|general|MICHIGAN|Congress|3|68.0
+2014-11-04|general|MICHIGAN|Congress|4|68.0
+2014-11-04|general|MICHIGAN|Congress|5|53.0
+2014-11-04|general|MICHIGAN|Congress|6|70.0
+2014-11-04|general|MICHIGAN|Congress|7|72.0
+2014-11-04|general|MICHIGAN|Congress|8|72.0
+2014-11-04|general|MICHIGAN|Congress|9|62.0
+2014-11-04|general|MINNESOTA|Congress|1|74.0
+2014-11-04|general|MINNESOTA|Congress|2|71.0
+2014-11-04|general|MINNESOTA|Congress|3|61.0
+2014-11-04|general|MINNESOTA|Congress|4|62.0
+2014-11-04|general|MINNESOTA|Congress|5|47.0
+2014-11-04|general|MINNESOTA|Congress|6|70.0
+2014-11-04|general|MINNESOTA|Congress|7|74.0
+2014-11-04|general|MINNESOTA|Congress|8|83.0
+2014-11-04|general|MISSISSIPPI|Congress|1|51.0
+2014-11-04|general|MISSISSIPPI|Congress|2|52.0
+2014-11-04|general|MISSISSIPPI|Congress|3|49.0
+2014-11-04|general|MISSISSIPPI|Congress|4|44.0
+2014-11-04|general|MISSOURI|Congress|1|43.0
+2014-11-04|general|MISSOURI|Congress|2|58.0
+2014-11-04|general|MISSOURI|Congress|3|51.0
+2014-11-04|general|MISSOURI|Congress|4|51.0
+2014-11-04|general|MISSOURI|Congress|5|78.0
+2014-11-04|general|MISSOURI|Congress|6|54.0
+2014-11-04|general|MISSOURI|Congress|7|59.0
+2014-11-04|general|MISSOURI|Congress|8|48.0
+2014-11-04|general|MONTANA|Congress|AT LARGE|72.0
+2014-11-04|general|NEBRASKA|Congress|1|50.0
+2014-11-04|general|NEBRASKA|Congress|2|82.0
+2014-11-04|general|NEBRASKA|Congress|3|39.0
+2014-11-04|general|NEVADA|Congress|1|67.0
+2014-11-04|general|NEVADA|Congress|2|55.0
+2014-11-04|general|NEVADA|Congress|3|61.0
+2014-11-04|general|NEVADA|Congress|4|81.0
+2014-11-04|general|NEW HAMPSHIRE|Congress|1|78.0
+2014-11-04|general|NEW HAMPSHIRE|Congress|2|73.0
+2014-11-04|general|NEW JERSEY|Congress|1|67.0
+2014-11-04|general|NEW JERSEY|Congress|10|22.0
+2014-11-04|general|NEW JERSEY|Congress|11|60.0
+2014-11-04|general|NEW JERSEY|Congress|12|61.0
+2014-11-04|general|NEW JERSEY|Congress|2|61.0
+2014-11-04|general|NEW JERSEY|Congress|3|74.0
+2014-11-04|general|NEW JERSEY|Congress|4|51.0
+2014-11-04|general|NEW JERSEY|Congress|5|72.0
+2014-11-04|general|NEW JERSEY|Congress|6|64.0
+2014-11-04|general|NEW JERSEY|Congress|7|65.0
+2014-11-04|general|NEW JERSEY|Congress|8|33.0
+2014-11-04|general|NEW JERSEY|Congress|9|51.0
+2014-11-04|general|NEW MEXICO|Congress|1|67.0
+2014-11-04|general|NEW MEXICO|Congress|2|57.0
+2014-11-04|general|NEW MEXICO|Congress|3|62.0
+2014-11-04|general|NEW YORK|Congress|1|75.0
+2014-11-04|general|NEW YORK|Congress|10|33.0
+2014-11-04|general|NEW YORK|Congress|11|73.0
+2014-11-04|general|NEW YORK|Congress|12|36.0
+2014-11-04|general|NEW YORK|Congress|13|41.0
+2014-11-04|general|NEW YORK|Congress|14|40.0
+2014-11-04|general|NEW YORK|Congress|15|15.0
+2014-11-04|general|NEW YORK|Congress|16|45.0
+2014-11-04|general|NEW YORK|Congress|17|74.0
+2014-11-04|general|NEW YORK|Congress|18|82.0
+2014-11-04|general|NEW YORK|Congress|19|60.0
+2014-11-04|general|NEW YORK|Congress|2|55.0
+2014-11-04|general|NEW YORK|Congress|20|66.0
+2014-11-04|general|NEW YORK|Congress|21|72.0
+2014-11-04|general|NEW YORK|Congress|22|42.0
+2014-11-04|general|NEW YORK|Congress|23|65.0
+2014-11-04|general|NEW YORK|Congress|24|67.0
+2014-11-04|general|NEW YORK|Congress|25|82.0
+2014-11-04|general|NEW YORK|Congress|26|56.0
+2014-11-04|general|NEW YORK|Congress|27|53.0
+2014-11-04|general|NEW YORK|Congress|3|76.0
+2014-11-04|general|NEW YORK|Congress|4|79.0
+2014-11-04|general|NEW YORK|Congress|5|32.0
+2014-11-04|general|NEW YORK|Congress|6|45.0
+2014-11-04|general|NEW YORK|Congress|7|25.0
+2014-11-04|general|NEW YORK|Congress|8|30.0
+2014-11-04|general|NEW YORK|Congress|9|30.0
+2014-11-04|general|NORTH CAROLINA|Congress|1|43.0
+2014-11-04|general|NORTH CAROLINA|Congress|10|63.0
+2014-11-04|general|NORTH CAROLINA|Congress|11|60.0
+2014-11-04|general|NORTH CAROLINA|Congress|12|39.0
+2014-11-04|general|NORTH CAROLINA|Congress|13|69.0
+2014-11-04|general|NORTH CAROLINA|Congress|2|66.0
+2014-11-04|general|NORTH CAROLINA|Congress|3|52.0
+2014-11-04|general|NORTH CAROLINA|Congress|4|40.0
+2014-11-04|general|NORTH CAROLINA|Congress|5|63.0
+2014-11-04|general|NORTH CAROLINA|Congress|6|66.0
+2014-11-04|general|NORTH CAROLINA|Congress|7|65.0
+2014-11-04|general|NORTH CAROLINA|Congress|8|56.0
+2014-11-04|general|NORTH CAROLINA|Congress|9|9.0
+2014-11-04|general|NORTH DAKOTA|Congress|AT LARGE|71.0
+2014-11-04|general|OHIO|Congress|1|59.0
+2014-11-04|general|OHIO|Congress|10|56.0
+2014-11-04|general|OHIO|Congress|11|33.0
+2014-11-04|general|OHIO|Congress|12|51.0
+2014-11-04|general|OHIO|Congress|13|51.0
+2014-11-04|general|OHIO|Congress|14|59.0
+2014-11-04|general|OHIO|Congress|15|55.0
+2014-11-04|general|OHIO|Congress|16|58.0
+2014-11-04|general|OHIO|Congress|2|55.0
+2014-11-04|general|OHIO|Congress|3|58.0
+2014-11-04|general|OHIO|Congress|4|52.0
+2014-11-04|general|OHIO|Congress|5|54.0
+2014-11-04|general|OHIO|Congress|6|67.0
+2014-11-04|general|OHIO|Congress|7|0.0
+2014-11-04|general|OHIO|Congress|8|53.0
+2014-11-04|general|OHIO|Congress|9|52.0
+2014-11-04|general|OKLAHOMA|Congress|1|0.0
+2014-11-04|general|OKLAHOMA|Congress|2|48.0
+2014-11-04|general|OKLAHOMA|Congress|3|34.0
+2014-11-04|general|OKLAHOMA|Congress|4|47.0
+2014-11-04|general|OKLAHOMA|Congress|5|62.0
+2014-11-04|general|OREGON|Congress|1|65.0
+2014-11-04|general|OREGON|Congress|2|47.0
+2014-11-04|general|OREGON|Congress|3|40.0
+2014-11-04|general|OREGON|Congress|4|65.0
+2014-11-04|general|OREGON|Congress|5|71.0
+2014-11-04|general|PENNSYLVANIA|Congress|1|27.0
+2014-11-04|general|PENNSYLVANIA|Congress|10|60.0
+2014-11-04|general|PENNSYLVANIA|Congress|11|54.0
+2014-11-04|general|PENNSYLVANIA|Congress|12|65.0
+2014-11-04|general|PENNSYLVANIA|Congress|13|53.0
+2014-11-04|general|PENNSYLVANIA|Congress|14|0.0
+2014-11-04|general|PENNSYLVANIA|Congress|15|0.0
+2014-11-04|general|PENNSYLVANIA|Congress|16|68.0
+2014-11-04|general|PENNSYLVANIA|Congress|17|70.0
+2014-11-04|general|PENNSYLVANIA|Congress|18|0.0
+2014-11-04|general|PENNSYLVANIA|Congress|2|19.0
+2014-11-04|general|PENNSYLVANIA|Congress|3|63.0
+2014-11-04|general|PENNSYLVANIA|Congress|4|41.0
+2014-11-04|general|PENNSYLVANIA|Congress|5|58.0
+2014-11-04|general|PENNSYLVANIA|Congress|6|70.0
+2014-11-04|general|PENNSYLVANIA|Congress|7|61.0
+2014-11-04|general|PENNSYLVANIA|Congress|8|61.0
+2014-11-04|general|PENNSYLVANIA|Congress|9|59.0
+2014-11-04|general|RHODE ISLAND|Congress|1|65.0
+2014-11-04|general|RHODE ISLAND|Congress|2|61.0
+2014-11-04|general|SOUTH CAROLINA|Congress|1|10.0
+2014-11-04|general|SOUTH CAROLINA|Congress|2|60.0
+2014-11-04|general|SOUTH CAROLINA|Congress|3|46.0
+2014-11-04|general|SOUTH CAROLINA|Congress|4|24.0
+2014-11-04|general|SOUTH CAROLINA|Congress|5|66.0
+2014-11-04|general|SOUTH CAROLINA|Congress|6|44.0
+2014-11-04|general|SOUTH CAROLINA|Congress|7|64.0
+2014-11-04|general|SOUTH DAKOTA|Congress|AT LARGE|54.0
+2014-11-04|general|TENNESSEE|Congress|1|23.0
+2014-11-04|general|TENNESSEE|Congress|2|41.0
+2014-11-04|general|TENNESSEE|Congress|3|60.0
+2014-11-04|general|TENNESSEE|Congress|4|67.0
+2014-11-04|general|TENNESSEE|Congress|5|61.0
+2014-11-04|general|TENNESSEE|Congress|6|46.0
+2014-11-04|general|TENNESSEE|Congress|7|48.0
+2014-11-04|general|TENNESSEE|Congress|8|44.0
+2014-11-04|general|TENNESSEE|Congress|9|39.0
+2014-11-04|general|TEXAS|Congress|1|36.0
+2014-11-04|general|TEXAS|Congress|10|61.0
+2014-11-04|general|TEXAS|Congress|11|15.0
+2014-11-04|general|TEXAS|Congress|12|46.0
+2014-11-04|general|TEXAS|Congress|13|24.0
+2014-11-04|general|TEXAS|Congress|14|61.0
+2014-11-04|general|TEXAS|Congress|15|74.0
+2014-11-04|general|TEXAS|Congress|16|52.0
+2014-11-04|general|TEXAS|Congress|17|57.0
+2014-11-04|general|TEXAS|Congress|18|44.0
+2014-11-04|general|TEXAS|Congress|19|36.0
+2014-11-04|general|TEXAS|Congress|2|50.0
+2014-11-04|general|TEXAS|Congress|20|39.0
+2014-11-04|general|TEXAS|Congress|21|45.0
+2014-11-04|general|TEXAS|Congress|22|54.0
+2014-11-04|general|TEXAS|Congress|23|81.0
+2014-11-04|general|TEXAS|Congress|24|56.0
+2014-11-04|general|TEXAS|Congress|25|64.0
+2014-11-04|general|TEXAS|Congress|26|28.0
+2014-11-04|general|TEXAS|Congress|27|58.0
+2014-11-04|general|TEXAS|Congress|28|28.0
+2014-11-04|general|TEXAS|Congress|29|16.0
+2014-11-04|general|TEXAS|Congress|3|29.0
+2014-11-04|general|TEXAS|Congress|30|19.0
+2014-11-04|general|TEXAS|Congress|31|58.0
+2014-11-04|general|TEXAS|Congress|32|61.0
+2014-11-04|general|TEXAS|Congress|33|21.0
+2014-11-04|general|TEXAS|Congress|34|65.0
+2014-11-04|general|TEXAS|Congress|35|59.0
+2014-11-04|general|TEXAS|Congress|36|38.0
+2014-11-04|general|TEXAS|Congress|4|0.0
+2014-11-04|general|TEXAS|Congress|5|23.0
+2014-11-04|general|TEXAS|Congress|6|62.0
+2014-11-04|general|TEXAS|Congress|7|59.0
+2014-11-04|general|TEXAS|Congress|8|17.0
+2014-11-04|general|TEXAS|Congress|9|14.0
+2014-11-04|general|UTAH|Congress|1|53.0
+2014-11-04|general|UTAH|Congress|2|59.0
+2014-11-04|general|UTAH|Congress|3|41.0
+2014-11-04|general|UTAH|Congress|4|77.0
+2014-11-04|general|VERMONT|Congress|AT LARGE|54.0
+2014-11-04|general|VIRGINIA|Congress|1|59.0
+2014-11-04|general|VIRGINIA|Congress|10|68.0
+2014-11-04|general|VIRGINIA|Congress|11|68.0
+2014-11-04|general|VIRGINIA|Congress|2|66.0
+2014-11-04|general|VIRGINIA|Congress|3|9.0
+2014-11-04|general|VIRGINIA|Congress|4|64.0
+2014-11-04|general|VIRGINIA|Congress|5|62.0
+2014-11-04|general|VIRGINIA|Congress|6|39.0
+2014-11-04|general|VIRGINIA|Congress|7|63.0
+2014-11-04|general|VIRGINIA|Congress|8|56.0
+2014-11-04|general|VIRGINIA|Congress|9|45.0
+2014-11-04|general|WASHINGTON|Congress|1|72.0
+2014-11-04|general|WASHINGTON|Congress|10|73.0
+2014-11-04|general|WASHINGTON|Congress|2|63.0
+2014-11-04|general|WASHINGTON|Congress|3|62.0
+2014-11-04|general|WASHINGTON|Congress|4|79.0
+2014-11-04|general|WASHINGTON|Congress|5|63.0
+2014-11-04|general|WASHINGTON|Congress|6|59.0
+2014-11-04|general|WASHINGTON|Congress|7|30.0
+2014-11-04|general|WASHINGTON|Congress|8|59.0
+2014-11-04|general|WASHINGTON|Congress|9|47.0
+2014-11-04|general|WEST VIRGINIA|Congress|1|58.0
+2014-11-04|general|WEST VIRGINIA|Congress|2|82.0
+2014-11-04|general|WEST VIRGINIA|Congress|3|72.0
+2014-11-04|general|WISCONSIN|Congress|1|59.0
+2014-11-04|general|WISCONSIN|Congress|2|51.0
+2014-11-04|general|WISCONSIN|Congress|3|70.0
+2014-11-04|general|WISCONSIN|Congress|4|48.0
+2014-11-04|general|WISCONSIN|Congress|5|49.0
+2014-11-04|general|WISCONSIN|Congress|6|69.0
+2014-11-04|general|WISCONSIN|Congress|7|65.0
+2014-11-04|general|WISCONSIN|Congress|8|56.0
+2014-11-04|general|WYOMING|Congress|AT LARGE|46.0
+2014-11-04|general|ALABAMA|Senate|N/A|0.0
+2014-11-04|general|ALASKA|Senate|N/A|89.0
+2014-11-04|general|ARKANSAS|Senate|N/A|73.0
+2014-11-04|general|COLORADO|Senate|N/A|88.0
+2014-11-04|general|DELAWARE|Senate|N/A|77.0
+2014-11-04|general|GEORGIA|Senate|N/A|82.0
+2014-11-04|general|IDAHO|Senate|N/A|59.0
+2014-11-04|general|ILLINOIS|Senate|N/A|81.0
+2014-11-04|general|IOWA|Senate|N/A|82.0
+2014-11-04|general|KANSAS|Senate|N/A|82.0
+2014-11-04|general|KENTUCKY|Senate|N/A|76.0
+2014-11-04|general|LOUISIANA|Senate|N/A|100.0
+2014-11-04|general|MAINE|Senate|N/A|56.0
+2014-11-04|general|MASSACHUSETTS|Senate|N/A|70.0
+2014-11-04|general|MICHIGAN|Senate|N/A|77.0
+2014-11-04|general|MINNESOTA|Senate|N/A|80.0
+2014-11-04|general|MISSISSIPPI|Senate|N/A|69.0
+2014-11-04|general|MONTANA|Senate|N/A|73.0
+2014-11-04|general|NEBRASKA|Senate|N/A|59.0
+2014-11-04|general|NEW HAMPSHIRE|Senate|N/A|85.0
+2014-11-04|general|NEW JERSEY|Senate|N/A|76.0
+2014-11-04|general|NEW MEXICO|Senate|N/A|77.0
+2014-11-04|general|NORTH CAROLINA|Senate|N/A|89.0
+2014-11-04|general|OKLAHOMA|Senate|N/A|51.0
+2014-11-04|general|OREGON|Senate|N/A|72.0
+2014-11-04|general|RHODE ISLAND|Senate|N/A|49.0
+2014-11-04|general|SOUTH CAROLINA|Senate|N/A|76.0
+2014-11-04|general|SOUTH DAKOTA|Senate|N/A|84.0
+2014-11-04|general|TENNESSEE|Senate|N/A|61.0
+2014-11-04|general|TEXAS|Senate|N/A|64.0
+2014-11-04|general|VIRGINIA|Senate|N/A|89.0
+2014-11-04|general|WEST VIRGINIA|Senate|N/A|63.0
+2014-11-04|general|WYOMING|Senate|N/A|43.0
+2012-11-06|general|ALABAMA|Congress|1|4.0
+2012-11-06|general|ALABAMA|Congress|2|67.0
+2012-11-06|general|ALABAMA|Congress|3|67.0
+2012-11-06|general|ALABAMA|Congress|4|48.0
+2012-11-06|general|ALABAMA|Congress|5|65.0
+2012-11-06|general|ALABAMA|Congress|6|53.0
+2012-11-06|general|ALABAMA|Congress|7|45.0
+2012-11-06|general|ALASKA|Congress|AT LARGE|64.0
+2012-11-06|general|ARIZONA|Congress|1|95.0
+2012-11-06|general|ARIZONA|Congress|2|92.0
+2012-11-06|general|ARIZONA|Congress|3|77.0
+2012-11-06|general|ARIZONA|Congress|4|60.0
+2012-11-06|general|ARIZONA|Congress|5|61.0
+2012-11-06|general|ARIZONA|Congress|6|69.0
+2012-11-06|general|ARIZONA|Congress|7|34.0
+2012-11-06|general|ARIZONA|Congress|8|68.0
+2012-11-06|general|ARIZONA|Congress|9|95.0
+2012-11-06|general|ARKANSAS|Congress|1|79.0
+2012-11-06|general|ARKANSAS|Congress|2|81.0
+2012-11-06|general|ARKANSAS|Congress|3|44.0
+2012-11-06|general|ARKANSAS|Congress|4|73.0
+2012-11-06|general|CALIFORNIA|Congress|1|79.0
+2012-11-06|general|CALIFORNIA|Congress|10|88.0
+2012-11-06|general|CALIFORNIA|Congress|11|56.0
+2012-11-06|general|CALIFORNIA|Congress|12|27.0
+2012-11-06|general|CALIFORNIA|Congress|13|24.0
+2012-11-06|general|CALIFORNIA|Congress|14|39.0
+2012-11-06|general|CALIFORNIA|Congress|15|89.0
+2012-11-06|general|CALIFORNIA|Congress|16|79.0
+2012-11-06|general|CALIFORNIA|Congress|17|49.0
+2012-11-06|general|CALIFORNIA|Congress|18|55.0
+2012-11-06|general|CALIFORNIA|Congress|19|49.0
+2012-11-06|general|CALIFORNIA|Congress|2|53.0
+2012-11-06|general|CALIFORNIA|Congress|20|48.0
+2012-11-06|general|CALIFORNIA|Congress|21|78.0
+2012-11-06|general|CALIFORNIA|Congress|22|71.0
+2012-11-06|general|CALIFORNIA|Congress|23|49.0
+2012-11-06|general|CALIFORNIA|Congress|24|83.0
+2012-11-06|general|CALIFORNIA|Congress|25|84.0
+2012-11-06|general|CALIFORNIA|Congress|26|88.0
+2012-11-06|general|CALIFORNIA|Congress|27|67.0
+2012-11-06|general|CALIFORNIA|Congress|28|43.0
+2012-11-06|general|CALIFORNIA|Congress|29|48.0
+2012-11-06|general|CALIFORNIA|Congress|3|85.0
+2012-11-06|general|CALIFORNIA|Congress|30|74.0
+2012-11-06|general|CALIFORNIA|Congress|31|83.0
+2012-11-06|general|CALIFORNIA|Congress|32|64.0
+2012-11-06|general|CALIFORNIA|Congress|33|85.0
+2012-11-06|general|CALIFORNIA|Congress|34|26.0
+2012-11-06|general|CALIFORNIA|Congress|35|82.0
+2012-11-06|general|CALIFORNIA|Congress|36|87.0
+2012-11-06|general|CALIFORNIA|Congress|37|25.0
+2012-11-06|general|CALIFORNIA|Congress|38|60.0
+2012-11-06|general|CALIFORNIA|Congress|39|78.0
+2012-11-06|general|CALIFORNIA|Congress|4|72.0
+2012-11-06|general|CALIFORNIA|Congress|40|76.0
+2012-11-06|general|CALIFORNIA|Congress|41|76.0
+2012-11-06|general|CALIFORNIA|Congress|42|73.0
+2012-11-06|general|CALIFORNIA|Congress|43|53.0
+2012-11-06|general|CALIFORNIA|Congress|44|74.0
+2012-11-06|general|CALIFORNIA|Congress|45|77.0
+2012-11-06|general|CALIFORNIA|Congress|46|67.0
+2012-11-06|general|CALIFORNIA|Congress|47|81.0
+2012-11-06|general|CALIFORNIA|Congress|48|72.0
+2012-11-06|general|CALIFORNIA|Congress|49|78.0
+2012-11-06|general|CALIFORNIA|Congress|5|47.0
+2012-11-06|general|CALIFORNIA|Congress|50|60.0
+2012-11-06|general|CALIFORNIA|Congress|51|53.0
+2012-11-06|general|CALIFORNIA|Congress|52|91.0
+2012-11-06|general|CALIFORNIA|Congress|53|71.0
+2012-11-06|general|CALIFORNIA|Congress|6|46.0
+2012-11-06|general|CALIFORNIA|Congress|7|90.0
+2012-11-06|general|CALIFORNIA|Congress|8|79.0
+2012-11-06|general|CALIFORNIA|Congress|9|82.0
+2012-11-06|general|COLORADO|Congress|1|57.0
+2012-11-06|general|COLORADO|Congress|2|80.0
+2012-11-06|general|COLORADO|Congress|3|84.0
+2012-11-06|general|COLORADO|Congress|4|75.0
+2012-11-06|general|COLORADO|Congress|5|51.0
+2012-11-06|general|COLORADO|Congress|6|95.0
+2012-11-06|general|COLORADO|Congress|7|84.0
+2012-11-06|general|CONNECTICUT|Congress|1|55.0
+2012-11-06|general|CONNECTICUT|Congress|2|57.0
+2012-11-06|general|CONNECTICUT|Congress|3|47.0
+2012-11-06|general|CONNECTICUT|Congress|4|74.0
+2012-11-06|general|CONNECTICUT|Congress|5|90.0
+2012-11-06|general|DELAWARE|Congress|AT LARGE|65.0
+2012-11-06|general|FLORIDA|Congress|1|56.0
+2012-11-06|general|FLORIDA|Congress|10|90.0
+2012-11-06|general|FLORIDA|Congress|11|66.0
+2012-11-06|general|FLORIDA|Congress|12|66.0
+2012-11-06|general|FLORIDA|Congress|13|79.0
+2012-11-06|general|FLORIDA|Congress|14|55.0
+2012-11-06|general|FLORIDA|Congress|15|0.0
+2012-11-06|general|FLORIDA|Congress|16|86.0
+2012-11-06|general|FLORIDA|Congress|17|77.0
+2012-11-06|general|FLORIDA|Congress|18|92.0
+2012-11-06|general|FLORIDA|Congress|19|70.0
+2012-11-06|general|FLORIDA|Congress|2|88.0
+2012-11-06|general|FLORIDA|Congress|20|22.0
+2012-11-06|general|FLORIDA|Congress|21|41.0
+2012-11-06|general|FLORIDA|Congress|22|84.0
+2012-11-06|general|FLORIDA|Congress|23|68.0
+2012-11-06|general|FLORIDA|Congress|24|0.0
+2012-11-06|general|FLORIDA|Congress|25|45.0
+2012-11-06|general|FLORIDA|Congress|26|85.0
+2012-11-06|general|FLORIDA|Congress|27|74.0
+2012-11-06|general|FLORIDA|Congress|3|65.0
+2012-11-06|general|FLORIDA|Congress|4|44.0
+2012-11-06|general|FLORIDA|Congress|5|54.0
+2012-11-06|general|FLORIDA|Congress|6|79.0
+2012-11-06|general|FLORIDA|Congress|7|77.0
+2012-11-06|general|FLORIDA|Congress|8|76.0
+2012-11-06|general|FLORIDA|Congress|9|69.0
+2012-11-06|general|GEORGIA|Congress|1|69.0
+2012-11-06|general|GEORGIA|Congress|10|0.0
+2012-11-06|general|GEORGIA|Congress|11|58.0
+2012-11-06|general|GEORGIA|Congress|12|86.0
+2012-11-06|general|GEORGIA|Congress|13|52.0
+2012-11-06|general|GEORGIA|Congress|14|50.0
+2012-11-06|general|GEORGIA|Congress|2|67.0
+2012-11-06|general|GEORGIA|Congress|3|0.0
+2012-11-06|general|GEORGIA|Congress|4|49.0
+2012-11-06|general|GEORGIA|Congress|5|29.0
+2012-11-06|general|GEORGIA|Congress|6|66.0
+2012-11-06|general|GEORGIA|Congress|7|70.0
+2012-11-06|general|GEORGIA|Congress|8|0.0
+2012-11-06|general|GEORGIA|Congress|9|44.0
+2012-11-06|general|HAWAII|Congress|1|86.0
+2012-11-06|general|HAWAII|Congress|2|43.0
+2012-11-06|general|IDAHO|Congress|1|66.0
+2012-11-06|general|IDAHO|Congress|2|65.0
+2012-11-06|general|ILLINOIS|Congress|1|48.0
+2012-11-06|general|ILLINOIS|Congress|10|92.0
+2012-11-06|general|ILLINOIS|Congress|11|77.0
+2012-11-06|general|ILLINOIS|Congress|12|90.0
+2012-11-06|general|ILLINOIS|Congress|13|99.0
+2012-11-06|general|ILLINOIS|Congress|14|76.0
+2012-11-06|general|ILLINOIS|Congress|15|58.0
+2012-11-06|general|ILLINOIS|Congress|16|71.0
+2012-11-06|general|ILLINOIS|Congress|17|87.0
+2012-11-06|general|ILLINOIS|Congress|18|48.0
+2012-11-06|general|ILLINOIS|Congress|2|68.0
+2012-11-06|general|ILLINOIS|Congress|3|58.0
+2012-11-06|general|ILLINOIS|Congress|4|31.0
+2012-11-06|general|ILLINOIS|Congress|5|63.0
+2012-11-06|general|ILLINOIS|Congress|6|76.0
+2012-11-06|general|ILLINOIS|Congress|7|28.0
+2012-11-06|general|ILLINOIS|Congress|8|84.0
+2012-11-06|general|ILLINOIS|Congress|9|62.0
+2012-11-06|general|INDIANA|Congress|1|61.0
+2012-11-06|general|INDIANA|Congress|2|95.0
+2012-11-06|general|INDIANA|Congress|3|61.0
+2012-11-06|general|INDIANA|Congress|4|70.0
+2012-11-06|general|INDIANA|Congress|5|77.0
+2012-11-06|general|INDIANA|Congress|6|76.0
+2012-11-06|general|INDIANA|Congress|7|69.0
+2012-11-06|general|INDIANA|Congress|8|87.0
+2012-11-06|general|INDIANA|Congress|9|83.0
+2012-11-06|general|IOWA|Congress|1|80.0
+2012-11-06|general|IOWA|Congress|2|82.0
+2012-11-06|general|IOWA|Congress|3|87.0
+2012-11-06|general|IOWA|Congress|4|87.0
+2012-11-06|general|KANSAS|Congress|1|0.0
+2012-11-06|general|KANSAS|Congress|2|80.0
+2012-11-06|general|KANSAS|Congress|3|58.0
+2012-11-06|general|KANSAS|Congress|4|70.0
+2012-11-06|general|KENTUCKY|Congress|1|56.0
+2012-11-06|general|KENTUCKY|Congress|2|64.0
+2012-11-06|general|KENTUCKY|Congress|3|67.0
+2012-11-06|general|KENTUCKY|Congress|4|70.0
+2012-11-06|general|KENTUCKY|Congress|5|41.0
+2012-11-06|general|KENTUCKY|Congress|6|92.0
+2012-11-06|general|LOUISIANA|Congress|1|57.0
+2012-11-06|general|LOUISIANA|Congress|2|76.0
+2012-11-06|general|LOUISIANA|Congress|3|100.0
+2012-11-06|general|LOUISIANA|Congress|4|46.0
+2012-11-06|general|LOUISIANA|Congress|5|41.0
+2012-11-06|general|LOUISIANA|Congress|6|38.0
+2012-11-06|general|MAINE|Congress|1|70.0
+2012-11-06|general|MAINE|Congress|2|82.0
+2012-11-06|general|MARYLAND|Congress|1|62.0
+2012-11-06|general|MARYLAND|Congress|2|64.0
+2012-11-06|general|MARYLAND|Congress|3|61.0
+2012-11-06|general|MARYLAND|Congress|4|42.0
+2012-11-06|general|MARYLAND|Congress|5|55.0
+2012-11-06|general|MARYLAND|Congress|6|76.0
+2012-11-06|general|MARYLAND|Congress|7|43.0
+2012-11-06|general|MARYLAND|Congress|8|66.0
+2012-11-06|general|MASSACHUSETTS|Congress|1|41.0
+2012-11-06|general|MASSACHUSETTS|Congress|2|45.0
+2012-11-06|general|MASSACHUSETTS|Congress|3|68.0
+2012-11-06|general|MASSACHUSETTS|Congress|4|72.0
+2012-11-06|general|MASSACHUSETTS|Congress|5|54.0
+2012-11-06|general|MASSACHUSETTS|Congress|6|96.0
+2012-11-06|general|MASSACHUSETTS|Congress|7|48.0
+2012-11-06|general|MASSACHUSETTS|Congress|8|53.0
+2012-11-06|general|MASSACHUSETTS|Congress|9|76.0
+2012-11-06|general|MICHIGAN|Congress|1|95.0
+2012-11-06|general|MICHIGAN|Congress|10|58.0
+2012-11-06|general|MICHIGAN|Congress|11|89.0
+2012-11-06|general|MICHIGAN|Congress|12|59.0
+2012-11-06|general|MICHIGAN|Congress|13|29.0
+2012-11-06|general|MICHIGAN|Congress|14|31.0
+2012-11-06|general|MICHIGAN|Congress|2|70.0
+2012-11-06|general|MICHIGAN|Congress|3|88.0
+2012-11-06|general|MICHIGAN|Congress|4|66.0
+2012-11-06|general|MICHIGAN|Congress|5|63.0
+2012-11-06|general|MICHIGAN|Congress|6|83.0
+2012-11-06|general|MICHIGAN|Congress|7|85.0
+2012-11-06|general|MICHIGAN|Congress|8|75.0
+2012-11-06|general|MICHIGAN|Congress|9|68.0
+2012-11-06|general|MINNESOTA|Congress|1|79.0
+2012-11-06|general|MINNESOTA|Congress|2|85.0
+2012-11-06|general|MINNESOTA|Congress|3|78.0
+2012-11-06|general|MINNESOTA|Congress|4|70.0
+2012-11-06|general|MINNESOTA|Congress|5|47.0
+2012-11-06|general|MINNESOTA|Congress|6|92.0
+2012-11-06|general|MINNESOTA|Congress|7|73.0
+2012-11-06|general|MINNESOTA|Congress|8|85.0
+2012-11-06|general|MISSISSIPPI|Congress|1|72.0
+2012-11-06|general|MISSISSIPPI|Congress|2|60.0
+2012-11-06|general|MISSISSIPPI|Congress|3|37.0
+2012-11-06|general|MISSISSIPPI|Congress|4|66.0
+2012-11-06|general|MISSOURI|Congress|1|39.0
+2012-11-06|general|MISSOURI|Congress|2|73.0
+2012-11-06|general|MISSOURI|Congress|3|68.0
+2012-11-06|general|MISSOURI|Congress|4|73.0
+2012-11-06|general|MISSOURI|Congress|5|73.0
+2012-11-06|general|MISSOURI|Congress|6|65.0
+2012-11-06|general|MISSOURI|Congress|7|67.0
+2012-11-06|general|MISSOURI|Congress|8|52.0
+2012-11-06|general|MONTANA|Congress|AT LARGE|87.0
+2012-11-06|general|NEBRASKA|Congress|1|59.0
+2012-11-06|general|NEBRASKA|Congress|2|91.0
+2012-11-06|general|NEBRASKA|Congress|3|48.0
+2012-11-06|general|NEVADA|Congress|1|65.0
+2012-11-06|general|NEVADA|Congress|2|76.0
+2012-11-06|general|NEVADA|Congress|3|90.0
+2012-11-06|general|NEVADA|Congress|4|89.0
+2012-11-06|general|NEW HAMPSHIRE|Congress|1|93.0
+2012-11-06|general|NEW HAMPSHIRE|Congress|2|92.0
+2012-11-06|general|NEW JERSEY|Congress|1|58.0
+2012-11-06|general|NEW JERSEY|Congress|10|22.0
+2012-11-06|general|NEW JERSEY|Congress|11|76.0
+2012-11-06|general|NEW JERSEY|Congress|12|56.0
+2012-11-06|general|NEW JERSEY|Congress|2|77.0
+2012-11-06|general|NEW JERSEY|Congress|3|85.0
+2012-11-06|general|NEW JERSEY|Congress|4|67.0
+2012-11-06|general|NEW JERSEY|Congress|5|83.0
+2012-11-06|general|NEW JERSEY|Congress|6|67.0
+2012-11-06|general|NEW JERSEY|Congress|7|78.0
+2012-11-06|general|NEW JERSEY|Congress|8|38.0
+2012-11-06|general|NEW JERSEY|Congress|9|47.0
+2012-11-06|general|NEW MEXICO|Congress|1|76.0
+2012-11-06|general|NEW MEXICO|Congress|2|76.0
+2012-11-06|general|NEW MEXICO|Congress|3|68.0
+2012-11-06|general|NEW YORK|Congress|1|94.0
+2012-11-06|general|NEW YORK|Congress|10|56.0
+2012-11-06|general|NEW YORK|Congress|11|96.0
+2012-11-06|general|NEW YORK|Congress|12|52.0
+2012-11-06|general|NEW YORK|Congress|13|43.0
+2012-11-06|general|NEW YORK|Congress|14|52.0
+2012-11-06|general|NEW YORK|Congress|15|27.0
+2012-11-06|general|NEW YORK|Congress|16|61.0
+2012-11-06|general|NEW YORK|Congress|17|78.0
+2012-11-06|general|NEW YORK|Congress|18|95.0
+2012-11-06|general|NEW YORK|Congress|19|95.0
+2012-11-06|general|NEW YORK|Congress|2|89.0
+2012-11-06|general|NEW YORK|Congress|20|67.0
+2012-11-06|general|NEW YORK|Congress|21|97.0
+2012-11-06|general|NEW YORK|Congress|22|81.0
+2012-11-06|general|NEW YORK|Congress|23|94.0
+2012-11-06|general|NEW YORK|Congress|24|95.0
+2012-11-06|general|NEW YORK|Congress|25|82.0
+2012-11-06|general|NEW YORK|Congress|26|56.0
+2012-11-06|general|NEW YORK|Congress|27|95.0
+2012-11-06|general|NEW YORK|Congress|3|89.0
+2012-11-06|general|NEW YORK|Congress|4|78.0
+2012-11-06|general|NEW YORK|Congress|5|46.0
+2012-11-06|general|NEW YORK|Congress|6|71.0
+2012-11-06|general|NEW YORK|Congress|7|39.0
+2012-11-06|general|NEW YORK|Congress|8|39.0
+2012-11-06|general|NEW YORK|Congress|9|39.0
+2012-11-06|general|NORTH CAROLINA|Congress|1|46.0
+2012-11-06|general|NORTH CAROLINA|Congress|10|80.0
+2012-11-06|general|NORTH CAROLINA|Congress|11|79.0
+2012-11-06|general|NORTH CAROLINA|Congress|12|38.0
+2012-11-06|general|NORTH CAROLINA|Congress|13|80.0
+2012-11-06|general|NORTH CAROLINA|Congress|2|82.0
+2012-11-06|general|NORTH CAROLINA|Congress|3|68.0
+2012-11-06|general|NORTH CAROLINA|Congress|4|47.0
+2012-11-06|general|NORTH CAROLINA|Congress|5|79.0
+2012-11-06|general|NORTH CAROLINA|Congress|6|72.0
+2012-11-06|general|NORTH CAROLINA|Congress|7|93.0
+2012-11-06|general|NORTH CAROLINA|Congress|8|87.0
+2012-11-06|general|NORTH CAROLINA|Congress|9|89.0
+2012-11-06|general|NORTH DAKOTA|Congress|AT LARGE|84.0
+2012-11-06|general|OHIO|Congress|1|76.0
+2012-11-06|general|OHIO|Congress|10|75.0
+2012-11-06|general|OHIO|Congress|11|0.0
+2012-11-06|general|OHIO|Congress|12|68.0
+2012-11-06|general|OHIO|Congress|13|50.0
+2012-11-06|general|OHIO|Congress|14|82.0
+2012-11-06|general|OHIO|Congress|15|71.0
+2012-11-06|general|OHIO|Congress|16|89.0
+2012-11-06|general|OHIO|Congress|2|77.0
+2012-11-06|general|OHIO|Congress|3|56.0
+2012-11-06|general|OHIO|Congress|4|77.0
+2012-11-06|general|OHIO|Congress|5|79.0
+2012-11-06|general|OHIO|Congress|6|87.0
+2012-11-06|general|OHIO|Congress|7|81.0
+2012-11-06|general|OHIO|Congress|8|1.0
+2012-11-06|general|OHIO|Congress|9|50.0
+2012-11-06|general|OKLAHOMA|Congress|1|68.0
+2012-11-06|general|OKLAHOMA|Congress|2|79.0
+2012-11-06|general|OKLAHOMA|Congress|3|46.0
+2012-11-06|general|OKLAHOMA|Congress|4|59.0
+2012-11-06|general|OKLAHOMA|Congress|5|74.0
+2012-11-06|general|OREGON|Congress|1|72.0
+2012-11-06|general|OREGON|Congress|2|58.0
+2012-11-06|general|OREGON|Congress|3|44.0
+2012-11-06|general|OREGON|Congress|4|76.0
+2012-11-06|general|OREGON|Congress|5|84.0
+2012-11-06|general|PENNSYLVANIA|Congress|1|28.0
+2012-11-06|general|PENNSYLVANIA|Congress|10|64.0
+2012-11-06|general|PENNSYLVANIA|Congress|11|77.0
+2012-11-06|general|PENNSYLVANIA|Congress|12|90.0
+2012-11-06|general|PENNSYLVANIA|Congress|13|57.0
+2012-11-06|general|PENNSYLVANIA|Congress|14|43.0
+2012-11-06|general|PENNSYLVANIA|Congress|15|80.0
+2012-11-06|general|PENNSYLVANIA|Congress|16|82.0
+2012-11-06|general|PENNSYLVANIA|Congress|17|74.0
+2012-11-06|general|PENNSYLVANIA|Congress|18|67.0
+2012-11-06|general|PENNSYLVANIA|Congress|2|20.0
+2012-11-06|general|PENNSYLVANIA|Congress|3|84.0
+2012-11-06|general|PENNSYLVANIA|Congress|4|72.0
+2012-11-06|general|PENNSYLVANIA|Congress|5|69.0
+2012-11-06|general|PENNSYLVANIA|Congress|6|79.0
+2012-11-06|general|PENNSYLVANIA|Congress|7|75.0
+2012-11-06|general|PENNSYLVANIA|Congress|8|80.0
+2012-11-06|general|PENNSYLVANIA|Congress|9|71.0
+2012-11-06|general|RHODE ISLAND|Congress|1|87.0
+2012-11-06|general|RHODE ISLAND|Congress|2|82.0
+2012-11-06|general|SOUTH CAROLINA|Congress|1|70.0
+2012-11-06|general|SOUTH CAROLINA|Congress|2|6.0
+2012-11-06|general|SOUTH CAROLINA|Congress|3|62.0
+2012-11-06|general|SOUTH CAROLINA|Congress|4|65.0
+2012-11-06|general|SOUTH CAROLINA|Congress|5|83.0
+2012-11-06|general|SOUTH CAROLINA|Congress|6|11.0
+2012-11-06|general|SOUTH CAROLINA|Congress|7|83.0
+2012-11-06|general|SOUTH DAKOTA|Congress|AT LARGE|79.0
+2012-11-06|general|TENNESSEE|Congress|1|41.0
+2012-11-06|general|TENNESSEE|Congress|2|43.0
+2012-11-06|general|TENNESSEE|Congress|3|71.0
+2012-11-06|general|TENNESSEE|Congress|4|82.0
+2012-11-06|general|TENNESSEE|Congress|5|64.0
+2012-11-06|general|TENNESSEE|Congress|6|43.0
+2012-11-06|general|TENNESSEE|Congress|7|49.0
+2012-11-06|general|TENNESSEE|Congress|8|57.0
+2012-11-06|general|TENNESSEE|Congress|9|45.0
+2012-11-06|general|TEXAS|Congress|1|53.0
+2012-11-06|general|TEXAS|Congress|10|73.0
+2012-11-06|general|TEXAS|Congress|11|39.0
+2012-11-06|general|TEXAS|Congress|12|54.0
+2012-11-06|general|TEXAS|Congress|13|16.0
+2012-11-06|general|TEXAS|Congress|14|86.0
+2012-11-06|general|TEXAS|Congress|15|72.0
+2012-11-06|general|TEXAS|Congress|16|64.0
+2012-11-06|general|TEXAS|Congress|17|37.0
+2012-11-06|general|TEXAS|Congress|18|46.0
+2012-11-06|general|TEXAS|Congress|19|28.0
+2012-11-06|general|TEXAS|Congress|2|64.0
+2012-11-06|general|TEXAS|Congress|20|66.0
+2012-11-06|general|TEXAS|Congress|21|73.0
+2012-11-06|general|TEXAS|Congress|22|65.0
+2012-11-06|general|TEXAS|Congress|23|91.0
+2012-11-06|general|TEXAS|Congress|24|72.0
+2012-11-06|general|TEXAS|Congress|25|77.0
+2012-11-06|general|TEXAS|Congress|26|59.0
+2012-11-06|general|TEXAS|Congress|27|79.0
+2012-11-06|general|TEXAS|Congress|28|58.0
+2012-11-06|general|TEXAS|Congress|29|18.0
+2012-11-06|general|TEXAS|Congress|3|0.0
+2012-11-06|general|TEXAS|Congress|30|39.0
+2012-11-06|general|TEXAS|Congress|31|72.0
+2012-11-06|general|TEXAS|Congress|32|77.0
+2012-11-06|general|TEXAS|Congress|33|51.0
+2012-11-06|general|TEXAS|Congress|34|71.0
+2012-11-06|general|TEXAS|Congress|35|65.0
+2012-11-06|general|TEXAS|Congress|36|54.0
+2012-11-06|general|TEXAS|Congress|4|50.0
+2012-11-06|general|TEXAS|Congress|5|66.0
+2012-11-06|general|TEXAS|Congress|6|77.0
+2012-11-06|general|TEXAS|Congress|7|72.0
+2012-11-06|general|TEXAS|Congress|8|42.0
+2012-11-06|general|TEXAS|Congress|9|38.0
+2012-11-06|general|UTAH|Congress|1|53.0
+2012-11-06|general|UTAH|Congress|2|67.0
+2012-11-06|general|UTAH|Congress|3|43.0
+2012-11-06|general|UTAH|Congress|4|95.0
+2012-11-06|general|VERMONT|Congress|AT LARGE|49.0
+2012-11-06|general|VIRGINIA|Congress|1|81.0
+2012-11-06|general|VIRGINIA|Congress|10|77.0
+2012-11-06|general|VIRGINIA|Congress|11|70.0
+2012-11-06|general|VIRGINIA|Congress|2|86.0
+2012-11-06|general|VIRGINIA|Congress|3|34.0
+2012-11-06|general|VIRGINIA|Congress|4|80.0
+2012-11-06|general|VIRGINIA|Congress|5|83.0
+2012-11-06|general|VIRGINIA|Congress|6|64.0
+2012-11-06|general|VIRGINIA|Congress|7|77.0
+2012-11-06|general|VIRGINIA|Congress|8|63.0
+2012-11-06|general|VIRGINIA|Congress|9|72.0
+2012-11-06|general|WASHINGTON|Congress|1|85.0
+2012-11-06|general|WASHINGTON|Congress|10|77.0
+2012-11-06|general|WASHINGTON|Congress|2|72.0
+2012-11-06|general|WASHINGTON|Congress|3|73.0
+2012-11-06|general|WASHINGTON|Congress|4|63.0
+2012-11-06|general|WASHINGTON|Congress|5|71.0
+2012-11-06|general|WASHINGTON|Congress|6|76.0
+2012-11-06|general|WASHINGTON|Congress|7|37.0
+2012-11-06|general|WASHINGTON|Congress|8|75.0
+2012-11-06|general|WASHINGTON|Congress|9|52.0
+2012-11-06|general|WEST VIRGINIA|Congress|1|70.0
+2012-11-06|general|WEST VIRGINIA|Congress|2|56.0
+2012-11-06|general|WEST VIRGINIA|Congress|3|85.0
+2012-11-06|general|WISCONSIN|Congress|1|84.0
+2012-11-06|general|WISCONSIN|Congress|2|59.0
+2012-11-06|general|WISCONSIN|Congress|3|67.0
+2012-11-06|general|WISCONSIN|Congress|4|51.0
+2012-11-06|general|WISCONSIN|Congress|5|60.0
+2012-11-06|general|WISCONSIN|Congress|6|70.0
+2012-11-06|general|WISCONSIN|Congress|7|81.0
+2012-11-06|general|WISCONSIN|Congress|8|82.0
+2012-11-06|general|WYOMING|Congress|AT LARGE|53.0
+2012-11-06|general|ARIZONA|Senate|N/A|95.0
+2012-11-06|general|CALIFORNIA|Senate|N/A|47.0
+2012-11-06|general|CONNECTICUT|Senate|N/A|74.0
+2012-11-06|general|DELAWARE|Senate|N/A|31.0
+2012-11-06|general|FLORIDA|Senate|N/A|72.0
+2012-11-06|general|HAWAII|Senate|N/A|50.0
+2012-11-06|general|INDIANA|Senate|N/A|92.0
+2012-11-06|general|MAINE|Senate|N/A|76.0
+2012-11-06|general|MARYLAND|Senate|N/A|68.0
+2012-11-06|general|MASSACHUSETTS|Senate|N/A|81.0
+2012-11-06|general|MICHIGAN|Senate|N/A|58.0
+2012-11-06|general|MINNESOTA|Senate|N/A|34.0
+2012-11-06|general|MISSISSIPPI|Senate|N/A|64.0
+2012-11-06|general|MISSOURI|Senate|N/A|75.0
+2012-11-06|general|MONTANA|Senate|N/A|98.0
+2012-11-06|general|NEBRASKA|Senate|N/A|64.0
+2012-11-06|general|NEVADA|Senate|N/A|100.0
+2012-11-06|general|NEW JERSEY|Senate|N/A|58.0
+2012-11-06|general|NEW MEXICO|Senate|N/A|89.0
+2012-11-06|general|NEW YORK|Senate|N/A|26.0
+2012-11-06|general|NORTH DAKOTA|Senate|N/A|92.0
+2012-11-06|general|OHIO|Senate|N/A|90.0
+2012-11-06|general|PENNSYLVANIA|Senate|N/A|79.0
+2012-11-06|general|RHODE ISLAND|Senate|N/A|39.0
+2012-11-06|general|TENNESSEE|Senate|N/A|31.0
+2012-11-06|general|TEXAS|Senate|N/A|67.0
+2012-11-06|general|UTAH|Senate|N/A|34.0
+2012-11-06|general|VERMONT|Senate|N/A|11.0
+2012-11-06|general|VIRGINIA|Senate|N/A|82.0
+2012-11-06|general|WASHINGTON|Senate|N/A|55.0
+2012-11-06|general|WEST VIRGINIA|Senate|N/A|54.0
+2012-11-06|general|WISCONSIN|Senate|N/A|86.0
+2012-11-06|general|WYOMING|Senate|N/A|0.0
+2010-11-02|general|ALABAMA|Congress|1|33.0
+2010-11-02|general|ALABAMA|Congress|2|93.0
+2010-11-02|general|ALABAMA|Congress|3|77.0
+2010-11-02|general|ALABAMA|Congress|4|2.0
+2010-11-02|general|ALABAMA|Congress|5|80.0
+2010-11-02|general|ALABAMA|Congress|6|3.0
+2010-11-02|general|ALABAMA|Congress|7|52.0
+2010-11-02|general|ALASKA|Congress|AT LARGE|59.0
+2010-11-02|general|ARIZONA|Congress|1|95.0
+2010-11-02|general|ARIZONA|Congress|2|66.0
+2010-11-02|general|ARIZONA|Congress|3|89.0
+2010-11-02|general|ARIZONA|Congress|4|59.0
+2010-11-02|general|ARIZONA|Congress|5|91.0
+2010-11-02|general|ARIZONA|Congress|6|62.0
+2010-11-02|general|ARIZONA|Congress|7|92.0
+2010-11-02|general|ARIZONA|Congress|8|97.0
+2010-11-02|general|ARKANSAS|Congress|1|91.0
+2010-11-02|general|ARKANSAS|Congress|2|78.0
+2010-11-02|general|ARKANSAS|Congress|3|52.0
+2010-11-02|general|ARKANSAS|Congress|4|80.0
+2010-11-02|general|CALIFORNIA|Congress|1|67.0
+2010-11-02|general|CALIFORNIA|Congress|10|78.0
+2010-11-02|general|CALIFORNIA|Congress|11|99.0
+2010-11-02|general|CALIFORNIA|Congress|12|46.0
+2010-11-02|general|CALIFORNIA|Congress|13|53.0
+2010-11-02|general|CALIFORNIA|Congress|14|58.0
+2010-11-02|general|CALIFORNIA|Congress|15|61.0
+2010-11-02|general|CALIFORNIA|Congress|16|61.0
+2010-11-02|general|CALIFORNIA|Congress|17|61.0
+2010-11-02|general|CALIFORNIA|Congress|18|79.0
+2010-11-02|general|CALIFORNIA|Congress|19|67.0
+2010-11-02|general|CALIFORNIA|Congress|2|81.0
+2010-11-02|general|CALIFORNIA|Congress|20|92.0
+2010-11-02|general|CALIFORNIA|Congress|21|0.0
+2010-11-02|general|CALIFORNIA|Congress|22|2.0
+2010-11-02|general|CALIFORNIA|Congress|23|78.0
+2010-11-02|general|CALIFORNIA|Congress|24|76.0
+2010-11-02|general|CALIFORNIA|Congress|25|72.0
+2010-11-02|general|CALIFORNIA|Congress|26|84.0
+2010-11-02|general|CALIFORNIA|Congress|27|66.0
+2010-11-02|general|CALIFORNIA|Congress|28|58.0
+2010-11-02|general|CALIFORNIA|Congress|29|67.0
+2010-11-02|general|CALIFORNIA|Congress|3|90.0
+2010-11-02|general|CALIFORNIA|Congress|30|65.0
+2010-11-02|general|CALIFORNIA|Congress|31|30.0
+2010-11-02|general|CALIFORNIA|Congress|32|55.0
+2010-11-02|general|CALIFORNIA|Congress|33|26.0
+2010-11-02|general|CALIFORNIA|Congress|34|43.0
+2010-11-02|general|CALIFORNIA|Congress|35|39.0
+2010-11-02|general|CALIFORNIA|Congress|36|76.0
+2010-11-02|general|CALIFORNIA|Congress|37|60.0
+2010-11-02|general|CALIFORNIA|Congress|38|50.0
+2010-11-02|general|CALIFORNIA|Congress|39|70.0
+2010-11-02|general|CALIFORNIA|Congress|4|73.0
+2010-11-02|general|CALIFORNIA|Congress|40|63.0
+2010-11-02|general|CALIFORNIA|Congress|41|70.0
+2010-11-02|general|CALIFORNIA|Congress|42|72.0
+2010-11-02|general|CALIFORNIA|Congress|43|65.0
+2010-11-02|general|CALIFORNIA|Congress|44|84.0
+2010-11-02|general|CALIFORNIA|Congress|45|92.0
+2010-11-02|general|CALIFORNIA|Congress|46|72.0
+2010-11-02|general|CALIFORNIA|Congress|47|89.0
+2010-11-02|general|CALIFORNIA|Congress|48|76.0
+2010-11-02|general|CALIFORNIA|Congress|49|68.0
+2010-11-02|general|CALIFORNIA|Congress|5|53.0
+2010-11-02|general|CALIFORNIA|Congress|50|80.0
+2010-11-02|general|CALIFORNIA|Congress|51|76.0
+2010-11-02|general|CALIFORNIA|Congress|52|70.0
+2010-11-02|general|CALIFORNIA|Congress|53|71.0
+2010-11-02|general|CALIFORNIA|Congress|6|62.0
+2010-11-02|general|CALIFORNIA|Congress|7|60.0
+2010-11-02|general|CALIFORNIA|Congress|8|34.0
+2010-11-02|general|CALIFORNIA|Congress|9|25.0
+2010-11-02|general|COLORADO|Congress|1|58.0
+2010-11-02|general|COLORADO|Congress|2|78.0
+2010-11-02|general|COLORADO|Congress|3|93.0
+2010-11-02|general|COLORADO|Congress|4|89.0
+2010-11-02|general|COLORADO|Congress|5|62.0
+2010-11-02|general|COLORADO|Congress|6|65.0
+2010-11-02|general|COLORADO|Congress|7|88.0
+2010-11-02|general|CONNECTICUT|Congress|1|73.0
+2010-11-02|general|CONNECTICUT|Congress|2|76.0
+2010-11-02|general|CONNECTICUT|Congress|3|66.0
+2010-11-02|general|CONNECTICUT|Congress|4|89.0
+2010-11-02|general|CONNECTICUT|Congress|5|87.0
+2010-11-02|general|DELAWARE|Congress|AT LARGE|81.0
+2010-11-02|general|FLORIDA|Congress|1|37.0
+2010-11-02|general|FLORIDA|Congress|10|64.0
+2010-11-02|general|FLORIDA|Congress|11|76.0
+2010-11-02|general|FLORIDA|Congress|12|98.0
+2010-11-02|general|FLORIDA|Congress|13|59.0
+2010-11-02|general|FLORIDA|Congress|14|59.0
+2010-11-02|general|FLORIDA|Congress|15|67.0
+2010-11-02|general|FLORIDA|Congress|16|63.0
+2010-11-02|general|FLORIDA|Congress|17|26.0
+2010-11-02|general|FLORIDA|Congress|18|59.0
+2010-11-02|general|FLORIDA|Congress|19|71.0
+2010-11-02|general|FLORIDA|Congress|2|86.0
+2010-11-02|general|FLORIDA|Congress|20|75.0
+2010-11-02|general|FLORIDA|Congress|21|0.0
+2010-11-02|general|FLORIDA|Congress|22|86.0
+2010-11-02|general|FLORIDA|Congress|23|39.0
+2010-11-02|general|FLORIDA|Congress|24|76.0
+2010-11-02|general|FLORIDA|Congress|25|88.0
+2010-11-02|general|FLORIDA|Congress|3|70.0
+2010-11-02|general|FLORIDA|Congress|4|43.0
+2010-11-02|general|FLORIDA|Congress|5|62.0
+2010-11-02|general|FLORIDA|Congress|6|54.0
+2010-11-02|general|FLORIDA|Congress|7|59.0
+2010-11-02|general|FLORIDA|Congress|8|81.0
+2010-11-02|general|FLORIDA|Congress|9|54.0
+2010-11-02|general|GEORGIA|Congress|1|54.0
+2010-11-02|general|GEORGIA|Congress|10|62.0
+2010-11-02|general|GEORGIA|Congress|11|0.0
+2010-11-02|general|GEORGIA|Congress|12|82.0
+2010-11-02|general|GEORGIA|Congress|13|58.0
+2010-11-02|general|GEORGIA|Congress|2|92.0
+2010-11-02|general|GEORGIA|Congress|3|58.0
+2010-11-02|general|GEORGIA|Congress|4|48.0
+2010-11-02|general|GEORGIA|Congress|5|50.0
+2010-11-02|general|GEORGIA|Congress|6|0.0
+2010-11-02|general|GEORGIA|Congress|7|62.0
+2010-11-02|general|GEORGIA|Congress|8|90.0
+2010-11-02|general|GEORGIA|Congress|9|0.0
+2010-11-02|general|HAWAII|Congress|1|89.0
+2010-11-02|general|HAWAII|Congress|2|52.0
+2010-11-02|general|IDAHO|Congress|1|91.0
+2010-11-02|general|IDAHO|Congress|2|59.0
+2010-11-02|general|ILLINOIS|Congress|1|37.0
+2010-11-02|general|ILLINOIS|Congress|10|93.0
+2010-11-02|general|ILLINOIS|Congress|11|81.0
+2010-11-02|general|ILLINOIS|Congress|12|76.0
+2010-11-02|general|ILLINOIS|Congress|13|68.0
+2010-11-02|general|ILLINOIS|Congress|14|92.0
+2010-11-02|general|ILLINOIS|Congress|15|68.0
+2010-11-02|general|ILLINOIS|Congress|16|66.0
+2010-11-02|general|ILLINOIS|Congress|17|90.0
+2010-11-02|general|ILLINOIS|Congress|18|58.0
+2010-11-02|general|ILLINOIS|Congress|19|54.0
+2010-11-02|general|ILLINOIS|Congress|2|37.0
+2010-11-02|general|ILLINOIS|Congress|3|57.0
+2010-11-02|general|ILLINOIS|Congress|4|43.0
+2010-11-02|general|ILLINOIS|Congress|5|55.0
+2010-11-02|general|ILLINOIS|Congress|6|69.0
+2010-11-02|general|ILLINOIS|Congress|7|35.0
+2010-11-02|general|ILLINOIS|Congress|8|98.0
+2010-11-02|general|ILLINOIS|Congress|9|64.0
+2010-11-02|general|INDIANA|Congress|1|78.0
+2010-11-02|general|INDIANA|Congress|2|98.0
+2010-11-02|general|INDIANA|Congress|3|70.0
+2010-11-02|general|INDIANA|Congress|4|59.0
+2010-11-02|general|INDIANA|Congress|5|66.0
+2010-11-02|general|INDIANA|Congress|6|63.0
+2010-11-02|general|INDIANA|Congress|7|78.0
+2010-11-02|general|INDIANA|Congress|8|80.0
+2010-11-02|general|INDIANA|Congress|9|90.0
+2010-11-02|general|IOWA|Congress|1|95.0
+2010-11-02|general|IOWA|Congress|2|92.0
+2010-11-02|general|IOWA|Congress|3|93.0
+2010-11-02|general|IOWA|Congress|4|65.0
+2010-11-02|general|IOWA|Congress|5|65.0
+2010-11-02|general|KANSAS|Congress|1|50.0
+2010-11-02|general|KANSAS|Congress|2|70.0
+2010-11-02|general|KANSAS|Congress|3|79.0
+2010-11-02|general|KANSAS|Congress|4|75.0
+2010-11-02|general|KENTUCKY|Congress|1|54.0
+2010-11-02|general|KENTUCKY|Congress|2|61.0
+2010-11-02|general|KENTUCKY|Congress|3|85.0
+2010-11-02|general|KENTUCKY|Congress|4|58.0
+2010-11-02|general|KENTUCKY|Congress|5|43.0
+2010-11-02|general|KENTUCKY|Congress|6|95.0
+2010-11-02|general|LOUISIANA|Congress|1|40.0
+2010-11-02|general|LOUISIANA|Congress|2|66.0
+2010-11-02|general|LOUISIANA|Congress|3|69.0
+2010-11-02|general|LOUISIANA|Congress|4|71.0
+2010-11-02|general|LOUISIANA|Congress|5|40.0
+2010-11-02|general|LOUISIANA|Congress|6|65.0
+2010-11-02|general|LOUISIANA|Congress|7|0.0
+2010-11-02|general|MAINE|Congress|1|82.0
+2010-11-02|general|MAINE|Congress|2|85.0
+2010-11-02|general|MARYLAND|Congress|1|87.0
+2010-11-02|general|MARYLAND|Congress|2|68.0
+2010-11-02|general|MARYLAND|Congress|3|73.0
+2010-11-02|general|MARYLAND|Congress|4|31.0
+2010-11-02|general|MARYLAND|Congress|5|68.0
+2010-11-02|general|MARYLAND|Congress|6|70.0
+2010-11-02|general|MARYLAND|Congress|7|47.0
+2010-11-02|general|MARYLAND|Congress|8|50.0
+2010-11-02|general|MASSACHUSETTS|Congress|1|76.0
+2010-11-02|general|MASSACHUSETTS|Congress|10|96.0
+2010-11-02|general|MASSACHUSETTS|Congress|2|81.0
+2010-11-02|general|MASSACHUSETTS|Congress|3|82.0
+2010-11-02|general|MASSACHUSETTS|Congress|4|86.0
+2010-11-02|general|MASSACHUSETTS|Congress|5|85.0
+2010-11-02|general|MASSACHUSETTS|Congress|6|82.0
+2010-11-02|general|MASSACHUSETTS|Congress|7|64.0
+2010-11-02|general|MASSACHUSETTS|Congress|8|3.0
+2010-11-02|general|MASSACHUSETTS|Congress|9|60.0
+2010-11-02|general|MICHIGAN|Congress|1|87.0
+2010-11-02|general|MICHIGAN|Congress|10|51.0
+2010-11-02|general|MICHIGAN|Congress|11|77.0
+2010-11-02|general|MICHIGAN|Congress|12|71.0
+2010-11-02|general|MICHIGAN|Congress|13|37.0
+2010-11-02|general|MICHIGAN|Congress|14|42.0
+2010-11-02|general|MICHIGAN|Congress|15|80.0
+2010-11-02|general|MICHIGAN|Congress|2|63.0
+2010-11-02|general|MICHIGAN|Congress|3|74.0
+2010-11-02|general|MICHIGAN|Congress|4|62.0
+2010-11-02|general|MICHIGAN|Congress|5|88.0
+2010-11-02|general|MICHIGAN|Congress|6|69.0
+2010-11-02|general|MICHIGAN|Congress|7|92.0
+2010-11-02|general|MICHIGAN|Congress|8|68.0
+2010-11-02|general|MICHIGAN|Congress|9|93.0
+2010-11-02|general|MINNESOTA|Congress|1|95.0
+2010-11-02|general|MINNESOTA|Congress|2|69.0
+2010-11-02|general|MINNESOTA|Congress|3|78.0
+2010-11-02|general|MINNESOTA|Congress|4|77.0
+2010-11-02|general|MINNESOTA|Congress|5|55.0
+2010-11-02|general|MINNESOTA|Congress|6|88.0
+2010-11-02|general|MINNESOTA|Congress|7|81.0
+2010-11-02|general|MINNESOTA|Congress|8|97.0
+2010-11-02|general|MISSISSIPPI|Congress|1|82.0
+2010-11-02|general|MISSISSIPPI|Congress|2|73.0
+2010-11-02|general|MISSISSIPPI|Congress|3|61.0
+2010-11-02|general|MISSISSIPPI|Congress|4|91.0
+2010-11-02|general|MISSOURI|Congress|1|50.0
+2010-11-02|general|MISSOURI|Congress|2|61.0
+2010-11-02|general|MISSOURI|Congress|3|95.0
+2010-11-02|general|MISSOURI|Congress|4|92.0
+2010-11-02|general|MISSOURI|Congress|5|88.0
+2010-11-02|general|MISSOURI|Congress|6|58.0
+2010-11-02|general|MISSOURI|Congress|7|69.0
+2010-11-02|general|MISSOURI|Congress|8|63.0
+2010-11-02|general|MISSOURI|Congress|9|43.0
+2010-11-02|general|MONTANA|Congress|AT LARGE|75.0
+2010-11-02|general|NEBRASKA|Congress|1|54.0
+2010-11-02|general|NEBRASKA|Congress|2|74.0
+2010-11-02|general|NEBRASKA|Congress|3|56.0
+2010-11-02|general|NEVADA|Congress|1|71.0
+2010-11-02|general|NEVADA|Congress|2|69.0
+2010-11-02|general|NEVADA|Congress|3|97.0
+2010-11-02|general|NEW HAMPSHIRE|Congress|1|87.0
+2010-11-02|general|NEW HAMPSHIRE|Congress|2|96.0
+2010-11-02|general|NEW JERSEY|Congress|1|68.0
+2010-11-02|general|NEW JERSEY|Congress|10|26.0
+2010-11-02|general|NEW JERSEY|Congress|11|62.0
+2010-11-02|general|NEW JERSEY|Congress|12|89.0
+2010-11-02|general|NEW JERSEY|Congress|13|47.0
+2010-11-02|general|NEW JERSEY|Congress|2|64.0
+2010-11-02|general|NEW JERSEY|Congress|3|94.0
+2010-11-02|general|NEW JERSEY|Congress|4|56.0
+2010-11-02|general|NEW JERSEY|Congress|5|65.0
+2010-11-02|general|NEW JERSEY|Congress|6|85.0
+2010-11-02|general|NEW JERSEY|Congress|7|77.0
+2010-11-02|general|NEW JERSEY|Congress|8|71.0
+2010-11-02|general|NEW JERSEY|Congress|9|74.0
+2010-11-02|general|NEW MEXICO|Congress|1|91.0
+2010-11-02|general|NEW MEXICO|Congress|2|85.0
+2010-11-02|general|NEW MEXICO|Congress|3|81.0
+2010-11-02|general|NEW YORK|Congress|1|97.0
+2010-11-02|general|NEW YORK|Congress|10|36.0
+2010-11-02|general|NEW YORK|Congress|11|31.0
+2010-11-02|general|NEW YORK|Congress|12|39.0
+2010-11-02|general|NEW YORK|Congress|13|95.0
+2010-11-02|general|NEW YORK|Congress|14|51.0
+2010-11-02|general|NEW YORK|Congress|15|41.0
+2010-11-02|general|NEW YORK|Congress|16|25.0
+2010-11-02|general|NEW YORK|Congress|17|54.0
+2010-11-02|general|NEW YORK|Congress|18|72.0
+2010-11-02|general|NEW YORK|Congress|19|93.0
+2010-11-02|general|NEW YORK|Congress|2|86.0
+2010-11-02|general|NEW YORK|Congress|20|89.0
+2010-11-02|general|NEW YORK|Congress|21|82.0
+2010-11-02|general|NEW YORK|Congress|22|93.0
+2010-11-02|general|NEW YORK|Congress|23|100.0
+2010-11-02|general|NEW YORK|Congress|24|93.0
+2010-11-02|general|NEW YORK|Congress|25|98.0
+2010-11-02|general|NEW YORK|Congress|26|60.0
+2010-11-02|general|NEW YORK|Congress|27|80.0
+2010-11-02|general|NEW YORK|Congress|28|74.0
+2010-11-02|general|NEW YORK|Congress|29|88.0
+2010-11-02|general|NEW YORK|Congress|3|55.0
+2010-11-02|general|NEW YORK|Congress|4|88.0
+2010-11-02|general|NEW YORK|Congress|5|75.0
+2010-11-02|general|NEW YORK|Congress|6|45.0
+2010-11-02|general|NEW YORK|Congress|7|50.0
+2010-11-02|general|NEW YORK|Congress|8|58.0
+2010-11-02|general|NEW YORK|Congress|9|82.0
+2010-11-02|general|NORTH CAROLINA|Congress|1|77.0
+2010-11-02|general|NORTH CAROLINA|Congress|10|54.0
+2010-11-02|general|NORTH CAROLINA|Congress|11|87.0
+2010-11-02|general|NORTH CAROLINA|Congress|12|68.0
+2010-11-02|general|NORTH CAROLINA|Congress|13|84.0
+2010-11-02|general|NORTH CAROLINA|Congress|2|96.0
+2010-11-02|general|NORTH CAROLINA|Congress|3|53.0
+2010-11-02|general|NORTH CAROLINA|Congress|4|81.0
+2010-11-02|general|NORTH CAROLINA|Congress|5|65.0
+2010-11-02|general|NORTH CAROLINA|Congress|6|47.0
+2010-11-02|general|NORTH CAROLINA|Congress|7|88.0
+2010-11-02|general|NORTH CAROLINA|Congress|8|89.0
+2010-11-02|general|NORTH CAROLINA|Congress|9|59.0
+2010-11-02|general|NORTH DAKOTA|Congress|AT LARGE|85.0
+2010-11-02|general|OHIO|Congress|1|91.0
+2010-11-02|general|OHIO|Congress|10|89.0
+2010-11-02|general|OHIO|Congress|11|32.0
+2010-11-02|general|OHIO|Congress|12|84.0
+2010-11-02|general|OHIO|Congress|13|84.0
+2010-11-02|general|OHIO|Congress|14|66.0
+2010-11-02|general|OHIO|Congress|15|85.0
+2010-11-02|general|OHIO|Congress|16|91.0
+2010-11-02|general|OHIO|Congress|17|87.0
+2010-11-02|general|OHIO|Congress|18|87.0
+2010-11-02|general|OHIO|Congress|2|79.0
+2010-11-02|general|OHIO|Congress|3|60.0
+2010-11-02|general|OHIO|Congress|4|54.0
+2010-11-02|general|OHIO|Congress|5|61.0
+2010-11-02|general|OHIO|Congress|6|92.0
+2010-11-02|general|OHIO|Congress|7|70.0
+2010-11-02|general|OHIO|Congress|8|63.0
+2010-11-02|general|OHIO|Congress|9|77.0
+2010-11-02|general|OKLAHOMA|Congress|1|44.0
+2010-11-02|general|OKLAHOMA|Congress|2|82.0
+2010-11-02|general|OKLAHOMA|Congress|3|41.0
+2010-11-02|general|OKLAHOMA|Congress|4|0.0
+2010-11-02|general|OKLAHOMA|Congress|5|69.0
+2010-11-02|general|OREGON|Congress|1|84.0
+2010-11-02|general|OREGON|Congress|2|49.0
+2010-11-02|general|OREGON|Congress|3|53.0
+2010-11-02|general|OREGON|Congress|4|86.0
+2010-11-02|general|OREGON|Congress|5|92.0
+2010-11-02|general|PENNSYLVANIA|Congress|1|0.0
+2010-11-02|general|PENNSYLVANIA|Congress|10|85.0
+2010-11-02|general|PENNSYLVANIA|Congress|11|86.0
+2010-11-02|general|PENNSYLVANIA|Congress|12|93.0
+2010-11-02|general|PENNSYLVANIA|Congress|13|83.0
+2010-11-02|general|PENNSYLVANIA|Congress|14|59.0
+2010-11-02|general|PENNSYLVANIA|Congress|15|88.0
+2010-11-02|general|PENNSYLVANIA|Congress|16|65.0
+2010-11-02|general|PENNSYLVANIA|Congress|17|84.0
+2010-11-02|general|PENNSYLVANIA|Congress|18|62.0
+2010-11-02|general|PENNSYLVANIA|Congress|19|53.0
+2010-11-02|general|PENNSYLVANIA|Congress|2|20.0
+2010-11-02|general|PENNSYLVANIA|Congress|3|84.0
+2010-11-02|general|PENNSYLVANIA|Congress|4|93.0
+2010-11-02|general|PENNSYLVANIA|Congress|5|59.0
+2010-11-02|general|PENNSYLVANIA|Congress|6|81.0
+2010-11-02|general|PENNSYLVANIA|Congress|7|85.0
+2010-11-02|general|PENNSYLVANIA|Congress|8|88.0
+2010-11-02|general|PENNSYLVANIA|Congress|9|51.0
+2010-11-02|general|RHODE ISLAND|Congress|1|93.0
+2010-11-02|general|RHODE ISLAND|Congress|2|76.0
+2010-11-02|general|SOUTH CAROLINA|Congress|1|60.0
+2010-11-02|general|SOUTH CAROLINA|Congress|2|87.0
+2010-11-02|general|SOUTH CAROLINA|Congress|3|71.0
+2010-11-02|general|SOUTH CAROLINA|Congress|4|66.0
+2010-11-02|general|SOUTH CAROLINA|Congress|5|85.0
+2010-11-02|general|SOUTH CAROLINA|Congress|6|70.0
+2010-11-02|general|SOUTH DAKOTA|Congress|AT LARGE|98.0
+2010-11-02|general|TENNESSEE|Congress|1|36.0
+2010-11-02|general|TENNESSEE|Congress|2|31.0
+2010-11-02|general|TENNESSEE|Congress|3|77.0
+2010-11-02|general|TENNESSEE|Congress|4|78.0
+2010-11-02|general|TENNESSEE|Congress|5|81.0
+2010-11-02|general|TENNESSEE|Congress|6|59.0
+2010-11-02|general|TENNESSEE|Congress|7|52.0
+2010-11-02|general|TENNESSEE|Congress|8|77.0
+2010-11-02|general|TENNESSEE|Congress|9|49.0
+2010-11-02|general|TEXAS|Congress|1|19.0
+2010-11-02|general|TEXAS|Congress|10|67.0
+2010-11-02|general|TEXAS|Congress|11|35.0
+2010-11-02|general|TEXAS|Congress|12|53.0
+2010-11-02|general|TEXAS|Congress|13|24.0
+2010-11-02|general|TEXAS|Congress|14|45.0
+2010-11-02|general|TEXAS|Congress|15|84.0
+2010-11-02|general|TEXAS|Congress|16|79.0
+2010-11-02|general|TEXAS|Congress|17|72.0
+2010-11-02|general|TEXAS|Congress|18|56.0
+2010-11-02|general|TEXAS|Congress|19|42.0
+2010-11-02|general|TEXAS|Congress|2|21.0
+2010-11-02|general|TEXAS|Congress|20|69.0
+2010-11-02|general|TEXAS|Congress|21|59.0
+2010-11-02|general|TEXAS|Congress|22|61.0
+2010-11-02|general|TEXAS|Congress|23|93.0
+2010-11-02|general|TEXAS|Congress|24|35.0
+2010-11-02|general|TEXAS|Congress|25|89.0
+2010-11-02|general|TEXAS|Congress|26|62.0
+2010-11-02|general|TEXAS|Congress|27|99.0
+2010-11-02|general|TEXAS|Congress|28|83.0
+2010-11-02|general|TEXAS|Congress|29|67.0
+2010-11-02|general|TEXAS|Congress|3|64.0
+2010-11-02|general|TEXAS|Congress|30|46.0
+2010-11-02|general|TEXAS|Congress|31|33.0
+2010-11-02|general|TEXAS|Congress|32|71.0
+2010-11-02|general|TEXAS|Congress|4|47.0
+2010-11-02|general|TEXAS|Congress|5|56.0
+2010-11-02|general|TEXAS|Congress|6|64.0
+2010-11-02|general|TEXAS|Congress|7|35.0
+2010-11-02|general|TEXAS|Congress|8|37.0
+2010-11-02|general|TEXAS|Congress|9|46.0
+2010-11-02|general|UTAH|Congress|1|55.0
+2010-11-02|general|UTAH|Congress|2|92.0
+2010-11-02|general|UTAH|Congress|3|49.0
+2010-11-02|general|VERMONT|Congress|AT LARGE|65.0
+2010-11-02|general|VIRGINIA|Congress|1|68.0
+2010-11-02|general|VIRGINIA|Congress|10|70.0
+2010-11-02|general|VIRGINIA|Congress|11|95.0
+2010-11-02|general|VIRGINIA|Congress|2|89.0
+2010-11-02|general|VIRGINIA|Congress|3|55.0
+2010-11-02|general|VIRGINIA|Congress|4|71.0
+2010-11-02|general|VIRGINIA|Congress|5|93.0
+2010-11-02|general|VIRGINIA|Congress|6|42.0
+2010-11-02|general|VIRGINIA|Congress|7|77.0
+2010-11-02|general|VIRGINIA|Congress|8|73.0
+2010-11-02|general|VIRGINIA|Congress|9|92.0
+2010-11-02|general|WASHINGTON|Congress|1|80.0
+2010-11-02|general|WASHINGTON|Congress|2|93.0
+2010-11-02|general|WASHINGTON|Congress|3|89.0
+2010-11-02|general|WASHINGTON|Congress|4|61.0
+2010-11-02|general|WASHINGTON|Congress|5|69.0
+2010-11-02|general|WASHINGTON|Congress|6|79.0
+2010-11-02|general|WASHINGTON|Congress|7|32.0
+2010-11-02|general|WASHINGTON|Congress|8|91.0
+2010-11-02|general|WASHINGTON|Congress|9|86.0
+2010-11-02|general|WEST VIRGINIA|Congress|1|94.0
+2010-11-02|general|WEST VIRGINIA|Congress|2|60.0
+2010-11-02|general|WEST VIRGINIA|Congress|3|83.0
+2010-11-02|general|WISCONSIN|Congress|1|60.0
+2010-11-02|general|WISCONSIN|Congress|2|72.0
+2010-11-02|general|WISCONSIN|Congress|3|94.0
+2010-11-02|general|WISCONSIN|Congress|4|58.0
+2010-11-02|general|WISCONSIN|Congress|5|58.0
+2010-11-02|general|WISCONSIN|Congress|6|55.0
+2010-11-02|general|WISCONSIN|Congress|7|91.0
+2010-11-02|general|WISCONSIN|Congress|8|86.0
+2010-11-02|general|WYOMING|Congress|AT LARGE|56.0
+2010-11-02|general|ALABAMA|Senate|N/A|58.0
+2010-11-02|general|ALASKA|Senate|N/A|100.0
+2010-11-02|general|ARIZONA|Senate|N/A|66.0
+2010-11-02|general|ARKANSAS|Senate|N/A|68.0
+2010-11-02|general|CALIFORNIA|Senate|N/A|76.0
+2010-11-02|general|COLORADO|Senate|N/A|83.0
+2010-11-02|general|CONNECTICUT|Senate|N/A|77.0
+2010-11-02|general|DELAWARE|Senate|N/A|71.0
+2010-11-02|general|FLORIDA|Senate|N/A|84.0
+2010-11-02|general|GEORGIA|Senate|N/A|69.0
+2010-11-02|general|HAWAII|Senate|N/A|40.0
+2010-11-02|general|IDAHO|Senate|N/A|48.0
+2010-11-02|general|ILLINOIS|Senate|N/A|84.0
+2010-11-02|general|INDIANA|Senate|N/A|75.0
+2010-11-02|general|IOWA|Senate|N/A|59.0
+2010-11-02|general|KANSAS|Senate|N/A|48.0
+2010-11-02|general|KENTUCKY|Senate|N/A|73.0
+2010-11-02|general|LOUISIANA|Senate|N/A|67.0
+2010-11-02|general|MARYLAND|Senate|N/A|62.0
+2010-11-02|general|MISSOURI|Senate|N/A|74.0
+2010-11-02|general|NEVADA|Senate|N/A|80.0
+2010-11-02|general|NEW HAMPSHIRE|Senate|N/A|65.0
+2010-11-02|general|NEW YORK|Senate|N/A|58.0
+2010-11-02|general|NORTH CAROLINA|Senate|N/A|75.0
+2010-11-02|general|NORTH DAKOTA|Senate|N/A|39.0
+2010-11-02|general|OHIO|Senate|N/A|70.0
+2010-11-02|general|OKLAHOMA|Senate|N/A|48.0
+2010-11-02|general|OREGON|Senate|N/A|69.0
+2010-11-02|general|PENNSYLVANIA|Senate|N/A|81.0
+2010-11-02|general|SOUTH CAROLINA|Senate|N/A|62.0
+2010-11-02|general|SOUTH DAKOTA|Senate|N/A|0.0
+2010-11-02|general|UTAH|Senate|N/A|64.0
+2010-11-02|general|VERMONT|Senate|N/A|55.0
+2010-11-02|general|WASHINGTON|Senate|N/A|79.0
+2010-11-02|general|WISCONSIN|Senate|N/A|80.0
